@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo Lua Debugger", "Demo Lua Debugger.csproj", "{E4EC6DA1-C1FD-43C7-9B8A-5EFE8412F50F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4EC6DA1-C1FD-43C7-9B8A-5EFE8412F50F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4EC6DA1-C1FD-43C7-9B8A-5EFE8412F50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4EC6DA1-C1FD-43C7-9B8A-5EFE8412F50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4EC6DA1-C1FD-43C7-9B8A-5EFE8412F50F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EDA83D0-866D-441F-B2D5-9BB1E5D98CF2}
+	EndGlobalSection
+EndGlobal
