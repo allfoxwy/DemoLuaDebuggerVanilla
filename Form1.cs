@@ -90,7 +90,6 @@ namespace Demo_Lua_Debugger
             codeTextBox.Select(codeTextBox.GetFirstCharIndexFromLine(lineNumber), codeTextBox.Lines[lineNumber].Length);
             codeTextBox.SelectionBackColor = Color.SkyBlue;
 
-            lineNumber += 10;
             codeTextBox.Select(codeTextBox.GetFirstCharIndexFromLine(lineNumber), 0);
 
             codeTextBox.ScrollToCaret();

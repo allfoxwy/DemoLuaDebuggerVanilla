@@ -103,6 +103,7 @@ namespace Demo_Lua_Debugger
             this.callStackListBox.Dock = System.Windows.Forms.DockStyle.Fill;
             this.callStackListBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.81503F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.callStackListBox.FormattingEnabled = true;
+            this.callStackListBox.HorizontalScrollbar = true;
             this.callStackListBox.ItemHeight = 44;
             this.callStackListBox.Location = new System.Drawing.Point(0, 0);
             this.callStackListBox.Name = "callStackListBox";
